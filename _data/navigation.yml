@@ -1,6 +1,6 @@
 main:
   - title: "Blog"
-    url: /home/
+    url: /blog/
     children:
       - title: "Posts By Year"
         url: /posts/
