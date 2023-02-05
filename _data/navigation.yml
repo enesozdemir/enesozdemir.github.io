@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /home/
   - title: "Splash"
-    url: /splash/
+    url: /
   - title: "Posts"
     url: /posts/
   - title: "Categories"
