@@ -1,14 +1,15 @@
 main:
-  - title: "Home"
+  - title: "Blog"
     url: /home/
-  - title: "Splash"
-    url: /
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+    children:
+      - title: "Posts By Year"
+      url: /posts/
+      - title: "Posts By Categories"
+        url: /categories/
+      - title: "Posts by Tags"
+        url: /tags/
+  - title: "About me"
     url: /about/
+  - title: "Contact me"
+    url: /contact/
   
