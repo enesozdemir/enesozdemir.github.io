@@ -1,0 +1,3 @@
+---
+title: "Simple CMS Project"
+---
