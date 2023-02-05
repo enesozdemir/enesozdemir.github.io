@@ -1,8 +1,8 @@
-# Minimal Mistakes remote theme starter
+# To-Do List of the personal page
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
+- Change photos
+- make a proper post
+- transfer pages from old blog
 
 - Sample posts.
 - Sample top navigation.
