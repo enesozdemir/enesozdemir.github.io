@@ -3,7 +3,7 @@ main:
     url: /home/
     children:
       - title: "Posts By Year"
-      url: /posts/
+        url: /posts/
       - title: "Posts By Categories"
         url: /categories/
       - title: "Posts by Tags"
@@ -14,7 +14,7 @@ main:
 
   - title: "About me"
     url: /about/
-    
+
   - title: "Contact me"
     url: /contact/
   
