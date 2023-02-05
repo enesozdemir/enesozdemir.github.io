@@ -124,6 +124,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  -scope:
+      path: "_portfolio"
+      type: pages
+    values:
+      layout: collection
 
 category_archive:
   type: liquid
@@ -131,3 +137,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+portfolio-archive:
+  tyoe: grid
+  path: /portfolio/
