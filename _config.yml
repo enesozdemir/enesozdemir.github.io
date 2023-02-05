@@ -18,9 +18,8 @@ title_separator          : "-"
 subtitle                 : "A Jekyll theme"
 email                    : meozdemir90@gmail.com
 name                     : &name "Enes Ozdemir" # &name is a YAML anchor which can be *referenced later
-description              : >- # this means to ignore newlines until "baseurl:"
-This is my journey of learning and sharing about mostly Unity Game Development. I will try to launch a indie game on steam platform.
-Meanwhile I will learn and share about Web Development with current technologies. Hope to get a job as a Web Developer or Unity Game Developer.
+description              : &description "This is my journey of learning and sharing about mostly Unity Game Development. I will try to launch a indie game on steam platform. 
+Meanwhile I will learn and share about Web Development with current technologies. Hope to get a job as a Web Developer or Unity Game Developer."
 url                      : https://enesozdemir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/enesozdemir" # the subpath of your site, e.g. "/blog"
 repository               : "enesozdemir/enesozdemir"
