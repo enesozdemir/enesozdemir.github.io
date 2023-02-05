@@ -9,12 +9,11 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: A Unity Game Developer Journey
+title_separator: "-"
+subtitle: "A Jekyll theme"
 email: meozdemir90@gmail.com
+name: &name "Enes Ozdemir" # &name is a YAML anchor which can be *referenced later
 description: >- # this means to ignore newlines until "baseurl:"
   This is my journey of learning and sharing about mostly Unity Game Development. I will try to launch a indie game on steam platform.
   Meanwhile I will learn and share about Web Development with current technologies. Hope to get a job as a Web Developer or Unity Game Developer.
@@ -56,10 +55,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
   name   : "Enes Ozdemir"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My frustrating journey to Unity Game Development"
+  location: "Buffalo, NY"
   links:
     - label: "Demos & Free Games"
       icon: "fab fa-itch-io"
@@ -83,6 +84,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/meozdemir90/"  
 
+# Site Footer
 footer:
   links:
     - label: "Demos & Free Games"
@@ -103,7 +105,14 @@ footer:
     - label: "Mr. Business"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/meozdemir90/"
-      
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults      
 defaults:
   # _posts
   - scope:
@@ -125,11 +134,13 @@ defaults:
       layout: single
       author_profile: true
   # _portfolio
-  -scope:
-      path: "_portfolio"
-      type: pages
+  - scope:
+      path: ""
+      type: portfolio
     values:
-      layout: collection
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
