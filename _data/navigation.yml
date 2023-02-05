@@ -8,10 +8,13 @@ main:
         url: /categories/
       - title: "Posts by Tags"
         url: /tags/
+
   - title: "Portfolio"
-    url: /portfolio/      
+    url: /portfolio/
+
   - title: "About me"
     url: /about/
+    
   - title: "Contact me"
     url: /contact/
   
