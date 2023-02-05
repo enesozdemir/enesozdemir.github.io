@@ -3,18 +3,8 @@ title: "Portfolio"
 layout: splash
 permalink: /portfolio/
 date: 2016-03-23T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Read More"
-      url: "https://enesozdemir.github.io/blog/" # "https://github.com/mmistakes/minimal-mistakes/" Add a link as in example.
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "This is my journey of learning and sharing about mostly Unity Game Development. I will try to launch a indie game on steam platform.
-  Meanwhile I will learn and share about Web Development with current technologies. Hope to get a job as a Web Developer or Unity Game Developer."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Here you can find some of my works from different stuffs'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
