@@ -10,7 +10,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site settings
 title                    : A Unity Game Developer Journey
@@ -21,7 +21,7 @@ name                     : &name "Enes Ozdemir" # &name is a YAML anchor which c
 description              : &description "This is my journey of learning and sharing about mostly Unity Game Development. I will try to launch a indie game on steam platform. 
 Meanwhile I will learn and share about Web Development with current technologies. Hope to get a job as a Web Developer or Unity Game Developer."
 url                      : https://enesozdemir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # "/enesozdemir" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "enesozdemir/enesozdemir"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
