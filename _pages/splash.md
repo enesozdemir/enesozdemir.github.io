@@ -17,30 +17,30 @@ intro:
   - excerpt: 'Some of my web development works and games you can find and read more about the my development process'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is a **Budget Planner** web app built with **React** Framework"
+    alt: "Budget Planner project"
+    title: "Budget Planner project"
+    excerpt: "This is a web app built with **React** Framework."
     url: "https://enesozdemir.github.io/portfolio/budget-planner/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "**e-Commerce** project built with **MERN** technologies"
+    alt: "e-Commerce project"
+    title: "e-Commerce project"
+    excerpt: "Built with **MERN** technologies"
     url: "https://enesozdemir.github.io/portfolio/e-commerce-project/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "Very simple **CMS** project"
+    title: "CMS Project"
+    excerpt: "Very simple **Content Management System** project"
     url: "https://enesozdemir.github.io/portfolio/simple-CMS/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    alt: "CyberCube Mobile Game"
+    title: "CyberCube Mobile Game"
     excerpt: 'My first mobile game project **CyberCube** built with **Unity** Game Engine.'
     url: "https://play.google.com/store/apps/details?id=com.KenzGameDevStudios.CyberCube"
     btn_label: "Read More"
