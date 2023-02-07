@@ -14,35 +14,35 @@ header:
 excerpt: "This is my journey of learning and sharing about mostly Unity Game Development. I will try to launch a indie game on steam platform.
   Meanwhile I will learn and share about Web Development with current technologies. Hope to get a job as a Web Developer or Unity Game Developer."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Some of my web development works and games you can find and read more about the my development process'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: "This is a **Budget Planner** web app built with **React** Framework"
+    url: "https://enesozdemir.github.io/portfolio/budget-planner/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: "**e-Commerce** project built with **MERN** technologies"
+    url: "https://enesozdemir.github.io/portfolio/e-commerce-project/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: "Very simple **CMS** project"
+    url: "https://enesozdemir.github.io/portfolio/simple-CMS/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    excerpt: 'My first mobile game project **CyberCube** built with **Unity** Game Engine.'
+    url: "https://play.google.com/store/apps/details?id=com.KenzGameDevStudios.CyberCube"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
