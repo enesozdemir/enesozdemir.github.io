@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "CMS Project"
-    excerpt: "Very simple **Content Management System** project"
+    excerpt: "Very simple **Content Management System**"
     url: "https://enesozdemir.github.io/portfolio/simple-CMS/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -43,6 +43,9 @@ feature_row2:
     title: "CyberCube Mobile Game"
     excerpt: 'My first mobile game project **CyberCube** built with **Unity** Game Engine.'
     url: "https://play.google.com/store/apps/details?id=com.KenzGameDevStudios.CyberCube"
+    btn_label: "Play"
+    btn_class: "btn--primary"
+    url: # "https://play.google.com/store/apps/details?id=com.KenzGameDevStudios.CyberCube"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
